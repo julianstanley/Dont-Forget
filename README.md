@@ -1,3 +1,6 @@
+[![Build Status](https://travis-ci.org/julianstanley/dont-forget.svg?branch=master)](https://travis-ci.org/julianstanley/dont-forget)
+[![GitHub License](https://img.shields.io/github/license/julianstanley/dont-forget.svg)](https://github.com/julianstanley/dont-forget/LICENSE.md)
+
 # Dont-Forget
 
 This project is in development. It aims to make it easier to document day-to-day knowledge 
