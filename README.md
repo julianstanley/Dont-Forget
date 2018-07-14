@@ -25,6 +25,7 @@ rake install
 
 # Start the web app
 ruby server
+```
 
 ## Running the tests
 
