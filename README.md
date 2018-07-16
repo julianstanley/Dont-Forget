@@ -1,5 +1,5 @@
-[![Build Status](https://travis-ci.org/julianstanley/dont-forget.svg?branch=master)](https://travis-ci.org/julianstanley/dont-forget)
-[![GitHub License](https://img.shields.io/github/license/julianstanley/dont-forget.svg)](https://github.com/julianstanley/dont-forget/LICENSE.md)
+[![Build Status](https://travis-ci.org/julianstanley/Dont-Forget.svg?branch=master)](https://travis-ci.org/julianstanley/Dont-Forget)
+[![GitHub License](https://img.shields.io/github/license/julianstanley/Dont-Forget.svg)](https://github.com/julianstanley/Dont-Forget/LICENSE.md)
 
 # Dont-Forget
 
