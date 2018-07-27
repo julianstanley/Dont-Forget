@@ -31,19 +31,17 @@ ruby server
 ```
 
 ## Running the tests
+https://guides.rubyonrails.org/v3.2/testing.html
 
 ## Deployment
-
+This app is not yet deployed.
 
 ## Built With
-
+Ruby on Rails
 
 ## Contributing
 
-This is a solo pet project in development, but feel free to join in by first posting or commenting on the "Issues" tab. 
-## Versioning
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+This is a solo pet project in development, but feel free to join in by first posting or commenting on the "Issues" tab.
 
 ## License
 
