@@ -8,6 +8,7 @@ end
 # Added based on security recommendation
 gem "rack", ">= 2.0.6"
 gem "loofa", ">=2.2.3"
+gem "rubyzip", ">= 1.2.2"
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 5.1.4'
